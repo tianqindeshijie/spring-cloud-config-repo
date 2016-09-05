@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: foo
+  cloud:
+    config:
+      env: default
+      profile: develop
+      label: master
+name: hello test11111
